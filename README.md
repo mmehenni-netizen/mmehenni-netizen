@@ -1,7 +1,11 @@
-[README.md](https://github.com/user-attachments/files/27376823/README.md)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,50:534AB7,100:AFA9EC&height=200&section=header&text=Mohamed%20Mehenni&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20Flutter%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=16&descColor=CECBF6" />
+<img src="https://github.com/mmehenni-netizen.png" width="120" style="border-radius:50%;" />
+
+<h1>Mohamed Mehenni</h1>
+
+<p><b>Junior Flutter Developer & UI/UX Designer</b></p>
 
 <br/>
 
@@ -152,3 +156,4 @@ I believe in combining **design + development** to create products that are not 
 ![Profile Views](https://komarev.com/ghpvc/?username=mmehenni-netizen&color=534AB7&style=flat-square&label=Profile+Views)
 
 </div>
+

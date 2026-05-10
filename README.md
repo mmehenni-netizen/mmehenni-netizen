@@ -33,7 +33,7 @@ I believe in combining **design + development** to create products that are not 
 - 📱 Mobile development with **Flutter & Dart**
 - 🎨 UI/UX design using **Figma**
 - 🌐 Currently learning **backend with Node.js**
-- 🎓 Architecture student in **Algeria**
+- 🎓 Computer Science student in **Algeria**
 - ⚡ Fun fact: My architecture background makes me think in **structure, space & user flow**
 
 ---
